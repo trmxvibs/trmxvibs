@@ -44,8 +44,6 @@ Here are some of my favorite and most popular repositories:
 ### 🔗 Let's Connect:
 - 📝 [Visit My Blog](https://termuxvibe.blogspot.com)
 - 🎥 [Watch My YouTube Channel](https://youtube.com/@TermuxVibes)
-- 🐦 [Follow Me on Twitter](https://twitter.com/your_twitter_username)
-- ✉️ **Email**: youremail@example.com
 
 ---
 
