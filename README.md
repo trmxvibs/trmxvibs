@@ -64,4 +64,4 @@ Here are some of my standout repositories:
 
 ---
 
-**Thank you for stopping by my profile!** 🙏
+# Thank you for stopping by my profile ! 🙏
