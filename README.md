@@ -22,11 +22,11 @@ Here are some of my standout repositories:
 - **<span style="color: #FF5733;">[WPHack](https://github.com/trmxvibs/WPHack)</span>**: 🛡️ A tool for hacking WhatsApp using IP address or QR code.  
   ![Shell](https://img.shields.io/badge/shell-green?style=flat-square) ![stars](https://img.shields.io/github/stars/trmxvibs/WPHack?style=social)
   
-- **<span style="color: #33FF57;">[IP](https://github.com/trmxvibs/IP)</span>**: 🌐 A Termux tool for scanning IPv4 and IPv6 details with hostname lookups.  
-  ![Shell](https://img.shields.io/badge/shell-green?style=flat-square) ![stars](https://img.shields.io/github/stars/trmxvibs/IP?style=social)
+- **<span style="color: #33FF57;">[IPScanPro](https://github.com/trmxvibs/IPScanPro)</span>**: 🌐 A Termux tool for scanning IPv4 and IPv6 details with hostname lookups.  
+  ![Shell](https://img.shields.io/badge/shell-green?style=flat-square) ![stars](https://img.shields.io/github/stars/trmxvibs/IPScanPro?style=social)
 
 - **<span style="color: #5733FF;">[kalifortermux](https://github.com/trmxvibs/kalifortermux)</span>**: 🐉 Simplified installation of Kali Linux in Termux.  
-  ![Shell](https://img.shields.io/badge/shell-green?style=flat-square)
+  ![Shell](https://img.shields.io/badge/shell-green?style=flat-square) ![stars](https://img.shields.io/github/stars/trmxvibs/kalifortermux?style=social)
 
 - **<span style="color: #FF33A6;">[WhatsAppHack](https://github.com/trmxvibs/WhatsAppHack)</span>**: 📱 A straightforward method to clone WhatsApp accounts.  
   ![Python](https://img.shields.io/badge/python-blue?style=flat-square) ![stars](https://img.shields.io/github/stars/trmxvibs/WhatsAppHack?style=social)
