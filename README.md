@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm <span style="color: #36BCF7;">Lokesh Kumar (trmxvibs)</span>!</h1>
+<h1 align="center">👋 Greetings, I'm <span style="color: #36BCF7;">Lokesh Kumar (trmxvibs)</span>!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Security+Researcher;Termux+Enthusiast;Linux+Lover;Open-Source+Contributor;Tech+Blogger" />
 </p>
@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me:
-I'm a dedicated **Termux tool developer** 🛠️ with a passion for open-source projects. My goal is to automate tasks and tackle real-world challenges through scripting and programming.
+I'm Lokesh Kumar, a passionate **Termux tool developer**, **Security Researcher**, and dedicated **Open-Source Contributor**. With a strong background in scripting and programming, I aim to develop tools that automate tasks and solve real-world problems. I actively participate in the tech community by sharing knowledge and collaborating on open-source projects.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23FF5733&lines=Currently+working+on+Termux+tools;Always+learning+new+technologies;Open+to+discussions+about+Linux+and+Scripting" />
@@ -19,17 +19,29 @@ I'm a dedicated **Termux tool developer** 🛠️ with a passion for open-source
 
 ### 📌 Featured Projects:
 Here are some of my standout repositories:
-- **<span style="color: #FF5733;">[WPHack](https://github.com/trmxvibs/WPHack)</span>**: 🛡️ A tool for hacking WhatsApp using IP address or QR code.  
+- **[WPHack](https://github.com/trmxvibs/WPHack)**: 🛡️ A tool for hacking WhatsApp using IP address or QR code.
   ![Shell](https://img.shields.io/badge/shell-green?style=flat-square) ![stars](https://img.shields.io/github/stars/trmxvibs/WPHack?style=social)
+  - Key Features:
+    - IP address hacking
+    - QR code exploitation
   
-- **<span style="color: #33FF57;">[IPScanPro](https://github.com/trmxvibs/IPScanPro)</span>**: 🌐 A Termux tool for scanning IPv4 and IPv6 details with hostname lookups.  
+- **[IPScanPro](https://github.com/trmxvibs/IPScanPro)**: 🌐 A Termux tool for scanning IPv4 and IPv6 details with hostname lookups.
   ![Shell](https://img.shields.io/badge/shell-green?style=flat-square) ![stars](https://img.shields.io/github/stars/trmxvibs/IPScanPro?style=social)
+  - Key Features:
+    - IPv4 and IPv6 scanning
+    - Hostname lookups
 
-- **<span style="color: #5733FF;">[kalifortermux](https://github.com/trmxvibs/kalifortermux)</span>**: 🐉 Simplified installation of Kali Linux in Termux.  
+- **[kalifortermux](https://github.com/trmxvibs/kalifortermux)**: 🐉 Simplified installation of Kali Linux in Termux.
   ![Shell](https://img.shields.io/badge/shell-green?style=flat-square) ![stars](https://img.shields.io/github/stars/trmxvibs/kalifortermux?style=social)
+  - Key Features:
+    - Easy setup of Kali Linux
+    - Pre-configured tools and scripts
 
-- **<span style="color: #FF33A6;">[WhatsAppHack](https://github.com/trmxvibs/WhatsAppHack)</span>**: 📱 A straightforward method to clone WhatsApp accounts.  
+- **[WhatsAppHack](https://github.com/trmxvibs/WhatsAppHack)**: 📱 A straightforward method to clone WhatsApp accounts.
   ![Python](https://img.shields.io/badge/python-blue?style=flat-square) ![stars](https://img.shields.io/github/stars/trmxvibs/WhatsAppHack?style=social)
+  - Key Features:
+    - WhatsApp account cloning
+    - User-friendly interface
 
 ---
 
@@ -45,17 +57,19 @@ Here are some of my standout repositories:
 
 ### 🔗 Let's Connect:
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF33A6&lines=Visit+My+Blog;Watch+My+YouTube+Channel" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF33A6&lines=Visit+My+Blog;Watch+My+YouTube+Channel;Connect+on+LinkedIn;Follow+on+Twitter" />
 </p>
 - 📝 [My Blog](https://termuxvibe.blogspot.com)
 - 🎥 [YouTube Channel](https://youtube.com/@TermuxVibes)
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 🐦 [Twitter](https://twitter.com/your-profile)
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trmxvibs&show_icons=true&theme=radical&hide_border=true" alt="trmxvibs GitHub Stats">
-  <img src="https://github-readme-stats.ver cel.app/api/top-langs/?username=trmxvibs&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trmxvibs&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
 </p>
 
 <p align="center">
@@ -64,4 +78,4 @@ Here are some of my standout repositories:
 
 ---
 
-# Thank you for stopping by my profile ! 🙏
+# Thank you for stopping by my profile! 🙏
