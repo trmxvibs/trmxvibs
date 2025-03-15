@@ -59,10 +59,10 @@ Here are some of my standout repositories:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23FF33A6&lines=Visit+My+Blog;Watch+My+YouTube+Channel;Connect+on+LinkedIn;Follow+on+Twitter" />
 </p>
-- 📝 [My Blog](https://termuxvibe.blogspot.com)
+
 - 🎥 [YouTube Channel](https://youtube.com/@TermuxVibes)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-profile)
+
+
 
 ---
 
