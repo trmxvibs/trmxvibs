@@ -17,7 +17,7 @@ I'm Lokesh Kumar, a passionate **Termux tool developer**, **Security Researcher*
 
 ---
 
-### 📌 Featured Projects:
+### 📌  Projects:
 Here are some of my standout repositories:
 
   
