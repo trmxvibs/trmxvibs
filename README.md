@@ -19,11 +19,7 @@ I'm Lokesh Kumar, a passionate **Termux tool developer**, **Security Researcher*
 
 ### 📌 Featured Projects:
 Here are some of my standout repositories:
-- **[WPHack](https://github.com/trmxvibs/WPHack)**: 🛡️ A tool for hacking WhatsApp using IP address or QR code.
-  ![Shell](https://img.shields.io/badge/shell-green?style=flat-square) ![stars](https://img.shields.io/github/stars/trmxvibs/WPHack?style=social)
-  - Key Features:
-    - IP address hacking
-    - QR code exploitation
+
   
 - **[IPScanPro](https://github.com/trmxvibs/IPScanPro)**: 🌐 A Termux tool for scanning IPv4 and IPv6 details with hostname lookups.
   ![Shell](https://img.shields.io/badge/shell-green?style=flat-square) ![stars](https://img.shields.io/github/stars/trmxvibs/IPScanPro?style=social)
