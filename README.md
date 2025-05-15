@@ -13,7 +13,7 @@ I'm Lokesh Kumar, a passionate **Termux tool developer**, **Security Researcher*
 </p>
 
 - 💬 Feel free to ask me about anything related to **Linux**, **Termux**, or **Scripting**.
-- 📫 Connect with me via my [website](https://termuxvibe.blogspot.com) or [YouTube Channel](https://youtube.com/@TermuxVibes).
+- 📫 Connect with me via my [website](https://termuxvibe.blogspot.com) or [YouTube Channel](https://youtube.com/@Termux2).
 
 ---
 
