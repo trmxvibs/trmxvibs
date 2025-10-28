@@ -1,77 +1,127 @@
-<h1 align="center">👋 Greetings, I'm <span style="color: #36BCF7;">Lokesh Kumar (trmxvibs)</span>!</h1>
+<!--
+  ⚡ Ultimate GitHub Profile README for Lokesh Kumar (@trmxvibs)
+  Author: Lokesh Kumar
+  YouTube: @termux2
+  Updated: October 2025
+  Note: Edit placeholders like email, bio, etc.
+-->
+
+<!-- Top Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Security+Researcher;Termux+Enthusiast;Linux+Lover;Open-Source+Contributor;Tech+Blogger" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c3ff,100:ffff1c&height=250&section=header&text=Lokesh%20Kumar%20(@trmxvibs)&fontSize=40&fontColor=000000&animation=twinkling&fontAlignY=40" />
 </p>
 
----
-
-### 🚀 About Me:
-I'm Lokesh Kumar, a passionate **Termux tool developer**, **Security Researcher**, and dedicated **Open-Source Contributor**. With a strong background in scripting and programming, I aim to develop tools that automate tasks and solve real-world problems. I actively participate in the tech community by sharing knowledge and collaborating on open-source projects.
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF5733&lines=Currently+working+on+Termux+tools;Always+learning+new+technologies;Open+to+discussions+about+Linux+and+Scripting" />
-</p>
-
-- 💬 Feel free to ask me about anything related to **Linux**, **Termux**, or **Scripting**.
-- 📫 Connect with me via my [website](https://termuxvibe.blogspot.com) or [YouTube Channel](https://youtube.com/@Termux2).
-
----
-
-### 📌  Projects:
-Here are some of my standout repositories:
-
-  
-- **[IPScanPro](https://github.com/trmxvibs/IPScanPro)**: 🌐 A Termux tool for scanning IPv4 and IPv6 details with hostname lookups.
-  ![Shell](https://img.shields.io/badge/shell-green?style=flat-square) ![stars](https://img.shields.io/github/stars/trmxvibs/IPScanPro?style=social)
-  - Key Features:
-    - IPv4 and IPv6 scanning
-    - Hostname lookups
-
-- **[kalifortermux](https://github.com/trmxvibs/kalifortermux)**: 🐉 Simplified installation of Kali Linux in Termux.
-  ![Shell](https://img.shields.io/badge/shell-green?style=flat-square) ![stars](https://img.shields.io/github/stars/trmxvibs/kalifortermux?style=social)
-  - Key Features:
-    - Easy setup of Kali Linux
-    - Pre-configured tools and scripts
-
-- **[WhatsAppHack](https://github.com/trmxvibs/WhatsAppHack)**: 📱 A straightforward method to clone WhatsApp accounts.
-  ![Python](https://img.shields.io/badge/python-blue?style=flat-square) ![stars](https://img.shields.io/github/stars/trmxvibs/WhatsAppHack?style=social)
-  - Key Features:
-    - WhatsApp account cloning
-    - User-friendly interface
-
----
-
-### 💻 My Tech Stack:
-<p align="left">
-  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
-
----
-
-### 🔗 Let's Connect:
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF33A6&lines=Visit+My+Blog;Watch+My+YouTube+Channel;Connect+on+LinkedIn;Follow+on+Twitter" />
-</p>
-
-- 🎥 [YouTube Channel](https://youtube.com/@Termux2)
-
-
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trmxvibs&show_icons=true&theme=radical&hide_border=true" alt="trmxvibs GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trmxvibs&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-</p>
+<h2 align="center">🚀 Developer • Security Researcher • Automation Enthusiast</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trmxvibs&theme=dracula&row=1&column=6&no-frame=true" alt="GitHub Trophies">
+  <i>“Code. Learn. Secure. Repeat.” — Creating open-source tools for ethical hacking, web security, and system automation.</i>
 </p>
 
 ---
 
-# Thank you for stopping by my profile! 🙏
+## 👋 About Me
+
+Hi! I'm **Lokesh Kumar**, also known as **@trmxvibs** — a passionate developer who loves exploring **cybersecurity**, **network automation**, and **Termux-based security tools**.
+
+🎯 I focus on:
+- ⚙️ Building fast & powerful CLI tools for automation.  
+- 🕵️ Exploring ethical hacking and penetration testing.  
+- 💡 Contributing to open-source security utilities.  
+
+🎥 **YouTube Channel:** [@termux2](https://www.youtube.com/@termux2)  
+🌍 **GitHub Profile:** [github.com/trmxvibs](https://github.com/trmxvibs)  
+📍 **Location:** India  
+
+---
+
+## 🧠 Quick Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=trmxvibs&color=brightgreen&style=flat-square" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/trmxvibs?style=social" alt="Followers">
+  <img src="https://img.shields.io/badge/Contributions-Active-blueviolet?style=flat-square" alt="Contributions">
+  <img src="https://img.shields.io/badge/OpenSource-Lover-orange?style=flat-square" alt="Open Source Lover">
+</p>
+
+---
+
+##  Featured Projects
+
+| 🔗 Repository | ⚡ Description |
+|:--------------|:----------------|
+| [**WhatsAppHack**](https://github.com/trmxvibs/WhatsAppHack) | WhatsApp automation and security testing toolkit. |
+| [**AKGen**](https://github.com/trmxvibs/AKGen) | Fast API key generator and validator for developers. |
+| [**hound**](https://github.com/trmxvibs/hound) | OSINT and reconnaissance framework for bug bounty hunters. |
+| [**wifi-audit-tool**](https://github.com/trmxvibs/wifi-audit-tool) | Wi-Fi auditing and penetration testing automation. |
+| [**EnvSanityCheck**](https://github.com/trmxvibs/EnvSanityCheck) | Validates and checks your environment configurations. |
+| [**webrecon**](https://github.com/trmxvibs/webrecon) | Automated web reconnaissance and scanning tool. |
+| [**IPScanPro**](https://github.com/trmxvibs/IPScanPro) | IP scanning and network mapping made simple. |
+
+
+---
+
+## 🧰 Skills & Tools
+
+### 💻 Languages  
+`Python` • `JavaScript` • `Bash` • `Go`  
+
+### 🧩 Frameworks / Libraries  
+`Node.js` • `Express` • `Flask` • `Scapy` • `Requests`
+
+### 🛠️ Tools / Platforms  
+`Git` • `Docker` • `Termux` • `Nmap` • `Burp Suite` • `GitHub Actions`
+
+### 🔒 Areas of Focus  
+`Web Security` • `Automation` • `Ethical Hacking` • `DevOps` • `Network Auditing`
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trmxvibs&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trmxvibs&layout=compact&theme=tokyonight" alt="Top Languages" height="180em">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trmxvibs&theme=tokyonight" alt="GitHub Streak Stats" height="200em">
+</p>
+
+
+
+
+---
+
+## 🎯 Currently Learning
+
+- 🔐 **Advanced Exploit Development & Pentesting**  
+- ⚙️ **Automation in Recon workflows (Python + APIs)**  
+- 🐳 **Containerization & CI/CD pipelines**  
+- 🧠 **Building smarter Termux CLI frameworks**
+
+---
+
+## 💬 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/trmxvibs"><img src="https://img.shields.io/badge/GitHub-trmxvibs-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.youtube.com/@termux2"><img src="https://img.shields.io/badge/YouTube-@termux2-red?style=for-the-badge&logo=youtube" alt="YouTube"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+</p>
+
+---
+
+
+
+<h3 align="center">🔥 Stay Curious. Stay Secure. Keep Building. 🔥</h3>
+
+<!-- Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c3ff,100:ffff1c&height=150&section=footer&text=Thanks%20for%20Visiting!%20💻&fontColor=000000&fontSize=20" />
+</p>
+
+<!--
+End of README.md  
+Author: Lokesh Kumar (@trmxvibs)
+YouTube: @termux2
+-->
