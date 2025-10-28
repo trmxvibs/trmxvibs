@@ -1,9 +1,36 @@
-<!-- 🌟 Animated Typing Header -->
+<!-- 🐍 Snake Eats My Name -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF99&size=40&center=true&vCenter=true&width=600&lines=LOKESH+KUMAR+🐍" alt="Name Animation" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/trmxvibs/trmxvibs/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation Eating Name" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ⚡ Ultimate GitHub Profile README for Lokesh Kumar (@trmxvibs) -->
+<!-- Author: Lokesh Kumar | YouTube: @termux2 | Updated: October 2025 -->
+
+<!-- 💻 Animated Typing Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF99&size=35&center=true&vCenter=true&width=600&lines=LOKESH+KUMAR;@trmxvibs;Cybersecurity+%7C+Automation+%7C+Open+Source;Code.+Learn.+Secure.+Repeat." alt="Typing Animation" />
 </h1>
 
-<!-- 🔥 Neon Banner -->
+<!-- 🌊 Neon Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:00ccff&height=200&section=header&text=Welcome%20to%20My%20GitHub!%20💻&fontColor=000000&fontSize=35&fontAlignY=40&animation=fadeIn" />
 </p>
@@ -22,9 +49,9 @@ Hi! I'm **Lokesh Kumar**, also known as **@trmxvibs** — a passionate developer
 **cybersecurity**, **automation**, and **ethical hacking** tools built for **Termux** and Linux.
 
 🎯 I focus on:
-- 🔧 Building smart CLI automation tools.  
-- 🕵️ Exploring ethical hacking & recon frameworks.  
-- 💡 Contributing to open-source communities.  
+- 🔧 Building smart CLI automation tools  
+- 🕵️ Exploring ethical hacking & recon frameworks  
+- 💡 Contributing to open-source communities  
 
 🎥 **YouTube:** [@termux2](https://www.youtube.com/@termux2)  
 🌍 **GitHub:** [github.com/trmxvibs](https://github.com/trmxvibs)
@@ -89,6 +116,13 @@ Hi! I'm **Lokesh Kumar**, also known as **@trmxvibs** — a passionate developer
   <a href="https://github.com/trmxvibs"><img src="https://img.shields.io/badge/GitHub-trmxvibs-black?style=for-the-badge&logo=github"></a>
   <a href="https://www.youtube.com/@termux2"><img src="https://img.shields.io/badge/YouTube-@termux2-red?style=for-the-badge&logo=youtube"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+<!-- 🐍 Snake Contribution Animation -->
+<p align="center">
+  <img src="https://github.com/trmxvibs/trmxvibs/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
