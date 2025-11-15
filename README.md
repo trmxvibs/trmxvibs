@@ -115,7 +115,7 @@ Hi! I'm **Lokesh Kumar**, also known as **@trmxvibs** — a passionate developer
 <p align="center">
   <a href="https://github.com/trmxvibs"><img src="https://img.shields.io/badge/GitHub-trmxvibs-black?style=for-the-badge&logo=github"></a>
   <a href="https://www.youtube.com/@termux2"><img src="https://img.shields.io/badge/YouTube-@termux2-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:termuxvibes@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
