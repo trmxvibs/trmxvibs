@@ -20,8 +20,6 @@
 
 
 
-
-
 <!-- ⚡ Ultimate GitHub Profile README for Lokesh Kumar (@trmxvibs) -->
 <!-- Author: Lokesh Kumar | YouTube: @termux2 | Updated: October 2025 -->
 
@@ -40,6 +38,88 @@
 <p align="center">
   <i>“Keep coding, keep learning, keep securing the web.”</i>
 </p>
+
+<h2 align="center" style="color: #00FFC3;">💾 CLASSIFIED PROJECT DATABASE</h2>
+
+<table width="100%">
+  <tr>
+    <th width="100%" colspan="2">🔥 TIER 1: FLAGSHIP FRAMEWORKS</th>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/trmxvibs/NetSentry-Framework">🦅 NetSentry-Framework</a></h3>
+      <p>
+        <b>Type:</b> Offensive Recon Engine<br>
+        <b>Status:</b> <code>Active / High Power</code><br>
+        <b>Detail:</b> A multi-threaded scanning engine designed for deep vulnerability analysis. It automates the entire recon process for bug bounty hunters using a single command.
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/trmxvibs/kalifortermux">🐉 KaliForTermux</a></h3>
+      <p>
+        <b>Type:</b> System Integration<br>
+        <b>Status:</b> <code>Critical Fix</code><br>
+        <b>Detail:</b> Solves the "Android 12+ Phantom Process Killer" issue. Allows a stable, full Kali Linux installation (chroot) on unrooted devices without crashing.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <th width="100%" colspan="2">🛠️ TIER 2: TACTICAL UTILITIES</th>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/trmxvibs/Tool-X">❌ Tool-X</a></h4>
+      <p>
+        > <b>Function:</b> Installer Framework<br>
+        > <b>Detail:</b> Manages 370+ hacking tools. Solves dependency errors automatically.
+      </p>
+    </td>
+    <td width="50%">
+       <h4><a href="https://github.com/trmxvibs/scaling-engine">👁️ scaling-engine</a></h4>
+      <p>
+        > <b>Function:</b> OSINT / Intelligence<br>
+        > <b>Detail:</b> Extracts hidden metadata and analyzes Instagram profiles for recon.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/trmxvibs/wifi-audit-tool">📶 wifi-audit-tool</a></h4>
+      <p>
+        > <b>Function:</b> Wireless Security<br>
+        > <b>Detail:</b> Automates handshake capture & report generation (WPA/WPA2).
+      </p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/trmxvibs/IPScanPro">🌍 IPScanPro</a></h4>
+      <p>
+        > <b>Function:</b> Geolocation Tracking<br>
+        > <b>Detail:</b> Pinpoints ISP, Timezone, and precise location from IP headers.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/trmxvibs/webrecon">🕸️ webrecon</a></h4>
+      <p>
+        > <b>Function:</b> Domain Mapping<br>
+        > <b>Detail:</b> Full suite: Whois, Nmap, Traceroute & DNS lookup in one script.
+      </p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/trmxvibs/EnvSanityCheck">✅ EnvSanityCheck</a></h4>
+      <p>
+        > <b>Function:</b> DevOps / Stability<br>
+        > <b>Detail:</b> Prevents production crashes by validating `.env` files pre-build.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ---
 
@@ -87,19 +167,7 @@ Hi! I'm **Lokesh Kumar**, also known as **@trmxvibs** — a passionate developer
 
 ---
 
-## 🚀 Featured Projects
 
-| 🔗 Repo | 🧩 Description |
-|:--------|:----------------|
-| [**WhatsAppHack**](https://github.com/trmxvibs/WhatsAppHack) | WhatsApp automation & security toolkit |
-| [**AKGen**](https://github.com/trmxvibs/AKGen) | API key generator & validator |
-| [**hound**](https://github.com/trmxvibs/hound) | Recon framework for bug bounty hunters |
-| [**wifi-audit-tool**](https://github.com/trmxvibs/wifi-audit-tool) | Wi-Fi auditing & pentesting |
-| [**EnvSanityCheck**](https://github.com/trmxvibs/EnvSanityCheck) | Env validation & sanity checker |
-| [**webrecon**](https://github.com/trmxvibs/webrecon) | Automated web reconnaissance |
-| [**IPScanPro**](https://github.com/trmxvibs/IPScanPro) | IP scanning & network mapping tool |
-
----
 
 ## 🧩 Learning & Goals
 
